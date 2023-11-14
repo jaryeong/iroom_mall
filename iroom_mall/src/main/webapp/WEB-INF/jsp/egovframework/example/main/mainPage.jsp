@@ -7,6 +7,7 @@
 <title>메인화면</title>
 </head>
 <body>
+<jsp:include page="header.jsp" />
 메인화면입니다.
 </body>
 </html>
