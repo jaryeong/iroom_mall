@@ -5,10 +5,13 @@
 <head>
 <meta charset="UTF-8">
 <title>제품소개</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
 </head>
 <body>
  <jsp:include page="../main/header.jsp" /> 
- 
+<div class="product_entire">
 <div style="display: flex; justify-content: center;">
 	<img src="/resources/img/난노클로롭시스.jpg" class="imges"/>
 	<img src="/resources/img/키토세로스.png" class="imges"/>
@@ -25,7 +28,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; margin-top: -180px;">
 <div style="display: flex; flex-direction: column; justify-content: center;">
-<div style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">효소제</div>
+<div class="mas" style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">효소제</div>
     <button class="view_more">복합효소(3)</button>
     <div class="modal">
    	<div class="modal-content">
@@ -165,7 +168,7 @@
     </div>
     
 	<div style="display: flex; flex-direction: column; justify-content: center; margin-left: 150px; margin-top: 80px;">
-    <div style="display: inline-block; margin-top: 150px; font-weight: bold; font-size: 20px;">미생물제</div>
+    <div class="mas" style="display: inline-block; margin-top: 150px; font-weight: bold; font-size: 20px;">미생물제</div>
     <Button class="view_more">효모(활성)</Button>
     <div class="modal">
       <div class="modal-content">
@@ -357,7 +360,7 @@
     </div>
     
 	<div style="display: flex; flex-direction: column; justify-content: center; margin-left: 150px; margin-bottom: 330px;">
-    <div style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">기호성</div>
+    <div class="mas" style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">기호성</div>
     <Button class="view_more">PET FOOD</Button>
     <div class="modal">
       <div class="modal-content">
@@ -378,7 +381,7 @@
     </div>
     
 	<div style="display: flex; flex-direction: column; justify-content: center; margin-left: 150px; margin-bottom: 330px;">
-    <div style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">기타</div>
+    <div class="mas" style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">기타</div>
     <Button class="view_more">추가적인 제품</Button>
     <div class="modal">
       <div class="modal-content">
@@ -591,7 +594,7 @@
       </div>
      </div>
     </div>
-    
+</div>
 </div>
 <script>
 //Modal을 가져옵니다.
@@ -637,6 +640,9 @@ if (event.target.className == "modal") {
 </script>
 
 <style>
+.product_entire {
+	background-color: #E0EBFF;
+}
 .imges {
 	width: 10%; height: 195px; float: left; margin-top: 50px; display: block;
 }
@@ -649,6 +655,13 @@ if (event.target.className == "modal") {
 }
 .modal_box {
 	overflow: auto;
+}
+.mas {
+    text-align: center;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: 5AD18F;
 }
 /* The Modal (background) */
         .modal {
@@ -686,8 +699,13 @@ if (event.target.className == "modal") {
             cursor: pointer;
         }
         .view_more {
-        	display: inline-block; margin-top: 50px; background: black; width: 180px; height: 50px; color: white; font-size: 15px;
-        }    
+        	display: inline-block; margin-top: 50px; background: #3C3C8C; width: 180px; height: 50px; color: white; font-size: 15px; font-family: 'Lato', sans-serif;
+		 	border-radius: 10px; padding: 15px; min-height: 30px; min-width: 120px;
+		 	font-family: 'Nanum Gothic', sans-serif; font-weight: bold;
+		 }
+		 .view_more:hover {
+		 	background-color:#6464CD; transition: 0.7s;
+		 } 
 </style> 
 </body>
 </html>

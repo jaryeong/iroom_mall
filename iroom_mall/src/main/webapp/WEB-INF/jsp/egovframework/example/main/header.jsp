@@ -5,6 +5,9 @@
 <head>
 <meta charset="UTF-8">
 <title>iroom</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
 <script type="text/javascript" src="/js/header/header.js"></script>
 <style type="text/css">
 body {
@@ -54,11 +57,16 @@ td:hover {
 	<col style="width:20%">
 	<col style="width:20%">
 	<tr>
-		<td style="color:white; font-size:25px">이룸 양식몰</td>
-		<td><a href="/main/main.do">홈</a></td>
-		<td><a href="/main/mainCompany.do">기업소개</a></td>
-		<td><a href="/product/product.do">제품</a></td>
-		<td onclick="fnShowLocationPopup()"><a href="">찾아오는 길</a></td>
+		<td style="color:white; font-size:25px"><a class="menu">이룸 양식몰</a></td>
+		<td><a class="menu" href="/main/main.do">홈</a></td>
+		<td><a class="menu" href="/main/mainCompany.do">기업소개</a></td>
+		<td><a class="menu" href="/product/product.do">제품</a></td>
+		<td onclick="fnShowLocationPopup()"><a class="menu" href="">찾아오는 길</a></td>
 </table>
+<style>
+.menu {
+    font-family: 'Nanum Gothic', sans-serif; font-weight: bold;
+}
+</style>
 </body>
 </html>
