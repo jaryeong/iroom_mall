@@ -27,10 +27,9 @@
     <link type="text/css" rel="stylesheet" href="<c:url value='/css/egovframework/sample.css'/>"/>
 </head>
 <body>
-<br></br>
 <div style="overflow: auto;">
 <div class="title">
-<span class="crimson_text">&nbsp;ㅇ</span>ㅣㄹㅜㅁ
+<img src="/resources/img/이룸로고.png" style="width: 10%; margin-top: 20px;"/>
 </div>
 <br></br>
 <jsp:include page="header.jsp" />
@@ -40,18 +39,24 @@
 <br></br>
 <p class="introduce">&nbsp;&nbsp;저희 기업은 1인 기업으로서<br></br>&nbsp;&nbsp;2021년도에 시작하여 성장하고 있는 기업입니다.</p>
 <br></br><br></br><br></br><br></br>
-<table style="width:100%">
+<table style="background-color:white; width:100%; height:100%">
 	<tr align="center">
-		<td><a href=""><img src="<c:url value='/images/egovframework/example/ceo.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></a></td>
-		<td><a href=""><img src="<c:url value='/images/egovframework/example/hp.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></a></td>
-		<td><a href=""><img src="<c:url value='/images/egovframework/example/add.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></a></td>
-		<td><a href=""><img src="<c:url value='/images/egovframework/example/email.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></a></td>
+		<td><img src="<c:url value='/images/egovframework/example/ceo.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
+		<td><img src="<c:url value='/images/egovframework/example/hp.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
+		<td><img src="<c:url value='/images/egovframework/example/add.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
+		<td><img src="<c:url value='/images/egovframework/example/email.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
 	</tr>
-	<tr align="center" style="font-size: 20px; font-weight:bold;">
-		<td><a href="">CEO</a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
-		<td><a href=""></a></td>
+	<tr align="center" style="color: black; font-size: 30px; font-weight:bold;">
+		<td>CEO</td>
+		<td>H.P</td>
+		<td>ADDRESS</td>
+		<td>E-MAIL</td>
+	</tr>
+	<tr align="center" style="color: black;">
+		<td>김철수</td>
+		<td>010-1234-5678</td>
+		<td>경상남도 통영시 산양읍 산양중앙로 50, 1층 우측</td>
+		<td>abc@gmail.com</td>
 	</tr>
 </table>
 </div>
