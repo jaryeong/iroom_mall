@@ -78,7 +78,6 @@
 	   <p>Bestzyme 외 중국(원료)</p>
       </div>
     </div>
- 
     <!-- 두 번째 Modal을 여는 클래스 -->
     <button class="view_more">프로테아제</button>
      <div class="modal">
@@ -380,7 +379,7 @@
     
 	<div style="display: flex; flex-direction: column; justify-content: center; margin-left: 150px; margin-bottom: 330px;">
     <div style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">기타</div>
-    <Button class="view_more">비타민</Button>
+    <Button class="view_more">추가적인 제품</Button>
     <div class="modal">
       <div class="modal-content">
         <span class="close">&times;</span>
@@ -390,6 +389,205 @@
 	    <p class="subtitle">제조사</p>
 	    <p>스위스</p>
 	    <p class="subtitle">80,000 원/kg</p>
+	    
+	    <p class="title">해수클로</p>
+	    <p class="subtitle">구성</p>
+	    <p>난노클로롭시스(nannocloropsis oceanica)</p>
+	    <p class="subtitle">효과</p>
+	    <p>패류 먹이, 굴유생 먹이, 로티퍼 영양강화, 수색</p>
+	    <p class="subtitle">용법</p>
+	    <p>적당량</p>
+	    <p class="subtitle">포장/형태</p>
+	    <p>박스 (9리터 * 2) 액상</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>국내산, 3㎛, 고활력 난노클로롭시스</p>
+	    
+	    <p class="title">키토365</p>
+	    <p class="subtitle">구성</p>
+	    <p>키토세로스(chaetoceros gracilis)</p>
+	    <p class="subtitle">효과</p>
+	    <p>패류 먹이, 굴유생 먹이</p>
+	    <p class="subtitle">용법</p>
+	    <p>해동 후 사용, 굴유생 25,000개 / 키토 1ml, (굴유생 1개 / 키토 20,000 cell), 생규조의 1.2배 급이, 잘 흔들어 사용</p>
+	    <p class="subtitle">포장/형태</p>
+	    <p>박스 (1kg팩 * 12) 냉동</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>일본산, 6~7㎛, 수질관리 주의, 해동 후 전량 사용</p>
+	    
+	    <p class="title">클로렐라 V12</p>
+	    <p class="subtitle">구성</p>
+	    <p>클로렐라 (생클로렐라V12)</p>
+	    <p class="subtitle">효과</p>
+	    <p>로티퍼 배양/증식</p>
+	    <p class="subtitle">용법</p>
+	    <p>잘 흔들어 사용, 냉장(제조일로부터 30일 이내)</p>
+	    <p class="subtitle">포장/형태</p>
+	    <p>박스/20리터 액상</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>일본산, B12 함유, 3~6㎛, 담수산</p>
+	    
+	    <p class="title">클로렐라 SV12</p>
+	    <p class="subtitle">구성</p>
+	    <p>클로렐라 (슈퍼생클로렐라V12)</p>
+	    <p class="subtitle">효과</p>
+	    <p>로티퍼 영양강화, 수색</p>
+	    <p class="subtitle">용법</p>
+	    <p>잘 흔들어 사용, 냉장(제조일로부터 21일 이내)</p>
+	    <p class="subtitle">포장/형태</p>
+	    <p>박스/10리터 액상</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>일본산, B12 EPA DHA, 3~6㎛, 담수산</p>
+	    
+	    <p class="title">패류양식초롱</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>국내산, 직경 485mm, 홀 17mm, 특허</p>
+	    
+	    <p class="title">퍼마가드-VK</p>
+	    <p class="subtitle">구성</p>
+	    <p>특수규조, "멜로시라"의 유기 화석(Diatomaceous Earth)</p>
+	    <p class="subtitle">효과</p>
+	    <p>소화 증진 미네랄제공(SiO2 외), 바이러스 붉은곰팡이 제거 / 예방, 수생 점액질 제거 / 예방, 유해세균, 가스 독성 제거 / 예방, 물만들기 수질정화, 천연 약욕</p>
+	    <p class="subtitle">용법</p>
+	    <p>사료량의 0.5~1%, 5~10ppm / 2~3day 또는 40ppm 처리 후 쭉~~ㅡ 50ppm</p>
+	    <p class="subtitle">포장/형태</p>
+	    <p>포/50LB/22.68kg 분말</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>미국산, 10㎛ 이하, 항생제 혼용 가능, 무항생제 사료 원료 (사료의 2%)</p>
+	    
+	    <p class="title">부르민</p>
+	    <p class="subtitle">구성</p>
+	    <p>유기산 원액, 해조추출물, 죽순, 해양심층수, 미네랄양이온(Fe, Mn, Mg ...)</p>
+	    <p class="subtitle">효과</p>
+	    <p>생리활성화, 소화력 증진, 면역체계 확보, 적조생물 제거, 세균 제거, 청소/소독</p>
+	    <p class="subtitle">용법</p>
+	    <p>사료량의 0.3% (사료 10kg에 33ml), 800 : 1 (1hr) 적조 제거, 1000 : 1 (24hr) 대장균 제거, 300 : 1 (1hr) 세균 살균 소독</p>
+	    <p class="subtitle">포장/형태</p>
+	    <p>박스 (1리터 * 12) 액상</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>국내산, 잘 흔들어서 사용, 생균제 혼용 금지, 먹이생물 배양 시 사용 금지, 반드시 희석 후 사용(PH2.0), 건냉 보관</p>
+	    
+	    <p class="title">부르민-BP2</p>
+	    <p class="subtitle">구성</p>
+	    <p>Bacillus polyfermenticusm, KJS-2, (4.68 X E8 cfu/g 이상)</p>
+	    <p class="subtitle">효과</p>
+	    <p>위산에 생존, 아포 형성균, 당화세균(유산균 대사), 면역증가 질병저항 향상, 이리도바이러스, 비브리오 등 유해세균 억제 및 예방, B,subtilis의 25배 단백질 분해, 소화효소 생산(아밀라제, 리파아제, 프로티아제), 비타민 12종 생산 (A,K1,K2,,,,B12,,C)</p>
+	    <p class="subtitle">용법</p>
+	    <p>사료 흡착 : 사료량의 0.1~0.2%(사료 1톤당 1~2kg), 수질정화/물만들기 : 10~20ppm/일</p>
+	    <p class="subtitle">포장/형태</p>
+	    <p>박스 (1kg*10) 분말</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>국내산, 건냉 보관, 항생제 혼용 금지</p>
+	    
+	    <p class="title">그린세이프 BS</p>
+	    <p class="subtitle">구성</p>
+	    <p>바실러스 서브틸리스()Bacillus Subtilis), 1 x 10의 11승 cfu/g, 1000억 cfu/g</p>
+	    <p class="subtitle">효과</p>
+	    <p>수질개선 / 저질개선, 탄수화물(유기물) 분해, 각종 소화효소 생산, 병원성세균 억제(비브리오 등...)</p>
+	    <p class="subtitle">용법</p>
+	    <p>400g / 20,000ton, (0.02ppm), 사료량의 0.002%</p>
+	    <p class="subtitle">포장</p>
+	    <p>500g*6/박스</p>
+	    <p class="subtitle">판매(원)</p>
+	    <p>40,000원/500g</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>차광된 서늘한 장소에 보관</p>
+	    
+	    <p class="title">그린세이프 BL</p>
+	    <p class="subtitle">구성</p>
+	    <p>바실러스 리체니포미스(Bacillus Licheniformis), 1 x 1011 cfu/g, 1000억 cfu/g</p>
+	    <p class="subtitle">효과</p>
+	    <p>저질개선 / 수질개선, 염기성 질소화합물 분해(암모니아, 아질산), 프로티아제 등 소화효소 생산, 병원성세균 억제</p>
+	    <p class="subtitle">용법</p>
+	    <p>400g / 20,000ton, (0.02ppm), 사료량의 0.002%</p>
+	    <p class="subtitle">포장</p>
+	    <p>500g*6/박스</p>
+	    <p class="subtitle">판매(원)</p>
+	    <p>40,000원/500g</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>차광된 서늘한 장소에 보관</p>
+	    
+	    <p class="title">바이오틱스 아쿠아</p>
+	    <p class="subtitle">구성</p>
+	    <p>바실러스 서브틸리스 1.0x10¹⁰cfu/g , 바실러스 리체니포미스 5.0x10⁹cfu/g, 바실러스 푸밀러스 5.0x10⁹cfu/g, 바실러스 아밀로리 퀘펙시언스5.0x10⁹cfu/g, 니트리핑 박테리아 5.0x10⁸cfu/g, 파라코커스 데니트리피칸스 2.0x10⁷cfu/g</p>
+	    <p class="subtitle">효과</p>
+	    <p>수산용 고농축 생균제(수질개선제), 수질개선 효과를 강화한 신개념 고농축 생균제, 성장률 증가,사료효율 증가, 폐사율 감소 등 질병예방</p>
+	    <p class="subtitle">용법</p>
+	    <p>사료량의 0.02 %, 본제 1g을 물 1L에희석 후 사료 1~5kg에 혼합하여 급여, 바이오틱스  1g을  200~1000m2에  투여, 0.001 ppm</p>
+	    <p class="subtitle">포장</p>
+	    <p>100g*30/박스</p>
+	    <p class="subtitle">판매(원)</p>
+	    <p>40,000원/100g</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>차광된 서늘한 장소에 보관</p>
+	    
+	    <p class="title">아이소(냉동)</p>
+	    <p class="subtitle">구성</p>
+	    <p>1억 cell 이상 /ml</p>
+	    <p class="subtitle">효과</p>
+	    <p>굴 유생 등의 냉동 먹이</p>
+	    <p class="subtitle">용법</p>
+	    <p>적당량</p>
+	    <p class="subtitle">포장</p>
+	    <p>통/10kg</p>
+	    <p class="subtitle">판매(원)</p>
+	    <p>10만/10kg</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>해동 후 즉시 사용</p>
+	    
+	    <p class="title">키토(냉동)</p>
+	    <p class="subtitle">구성</p>
+	    <p>1억 cell 이상 /ml</p>
+	    <p class="subtitle">효과</p>
+	    <p>굴 유생 등의 냉동 먹이</p>
+	    <p class="subtitle">용법</p>
+	    <p>적당량</p>
+	    <p class="subtitle">포장</p>
+	    <p>통/10kg</p>
+	    <p class="subtitle">판매(원)</p>
+	    <p>10만/10kg</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>해동 후 즉시 사용</p>
+	    
+	    <p class="title">테트라(냉동)</p>
+	    <p class="subtitle">구성</p>
+	    <p>3000만 cell 이상 /ml</p>
+	    <p class="subtitle">효과</p>
+	    <p>굴 유생 등의 냉동 먹이</p>
+	    <p class="subtitle">용법</p>
+	    <p>적당량</p>
+	    <p class="subtitle">포장</p>
+	    <p>통/10kg</p>
+	    <p class="subtitle">판매(원)</p>
+	    <p>8만/10kg</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>해동 후 즉시 사용</p>
+	    
+	    <p class="title">난노(냉동)</p>
+	    <p class="subtitle">구성</p>
+	    <p>120억 cell 이상 /ml</p>
+	    <p class="subtitle">효과</p>
+	    <p>굴 유생 등의 냉동 먹이</p>
+	    <p class="subtitle">용법</p>
+	    <p>적당량</p>
+	    <p class="subtitle">포장</p>
+	    <p>통/10kg</p>
+	    <p class="subtitle">판매(원)</p>
+	    <p>12만/20kg</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>해동 후 즉시 사용</p>
+	    
+	    <p class="title">난노100</p>
+	    <p class="subtitle">구성</p>
+	    <p>난노클로롭시스(nannochloropsis oceanica)</p>
+	    <p class="subtitle">효과</p>
+	    <p>동물성플랑크톤, (유생, 로티퍼, 기타)의 먹이, 수색안정, 접종, 영양강화</p>
+	    <p class="subtitle">용법</p>
+	    <p>적당량, 잘 흔들어 사용</p>
+	    <p class="subtitle">포장</p>
+	    <p>박스/(9L*2)</p>
+	    <p class="subtitle">주의/비고</p>
+	    <p>액상, 국내산 고활력 난노, 냉장</p>
+	   
       </div>
      </div>
     </div>
@@ -449,6 +647,9 @@ if (event.target.className == "modal") {
 .subtitle {
    font-weight: bold;
 }
+.modal_box {
+	overflow: auto;
+}
 /* The Modal (background) */
         .modal {
             display: none; /* Hidden by default */
@@ -460,7 +661,7 @@ if (event.target.className == "modal") {
             height: 100%; /* Full height */
             overflow: auto; /* Enable scroll if needed */
             background-color: rgb(0,0,0); /* Fallback color */
-            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+            background-color: rgba(0,0,0,0.4); /* Black w/ opacity */            
         }
         /* Modal Content/Box */
         .modal-content {
@@ -469,6 +670,7 @@ if (event.target.className == "modal") {
             padding: 20px;
             border: 1px solid #888;
             width: 50%; /* Could be more or less, depending on screen size */
+            overflow: auto;
         }
         /* The Close Button */
         .close {
@@ -484,7 +686,7 @@ if (event.target.className == "modal") {
             cursor: pointer;
         }
         .view_more {
-        	display: inline-block; margin-top: 50px; background: #5CD1E5; width: 180px; height: 50px; color: white; font-size: 15px;
+        	display: inline-block; margin-top: 50px; background: black; width: 180px; height: 50px; color: white; font-size: 15px;
         }    
 </style> 
 </body>
