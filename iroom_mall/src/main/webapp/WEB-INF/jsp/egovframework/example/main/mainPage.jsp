@@ -24,39 +24,39 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title><spring:message code="title.sample" /></title>
+    <link rel="preconnect" href="https://fonts.googleaps.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+    <link href="https://fonts.googleaps.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet"/>
     <link type="text/css" rel="stylesheet" href="<c:url value='/css/egovframework/sample.css'/>"/>
 </head>
 <body>
 <div style="overflow: auto;">
 <div class="title">
-<img src="/resources/img/이룸로고.png" style="width: 10%; margin-top: 20px;"/>
+<img src="/resources/img/이룸로고.png" style="width: 10%; margin-top: 20px; margin-bottom: 10px;"/>
 </div>
-<br></br>
 <jsp:include page="header.jsp" />
-<img src="<c:url value='/images/egovframework/example/company_introduce.jpg'/>" width="100%" height="420" alt=""/>
-<br></br><br></br>
-<h1 style="font-weight:bold">&nbsp;ABOUT US</h1>
+<img src="/images/egovframework/example/company_introduce.jpg" style="width: 100%; height: 420px; margin-bottom: 30px;"/>
+<h1 style="font-weight:bold; font-family: 'Nanum Gothic', sans-serif;">&nbsp;ABOUT US</h1>
 <br></br>
-<p class="introduce">&nbsp;&nbsp;저희 기업은 1인 기업으로서<br></br>&nbsp;&nbsp;2021년도에 시작하여 성장하고 있는 기업입니다.</p>
-<br></br><br></br><br></br><br></br>
-<table style="background-color:white; width:100%; height:100%">
+<p class="introduce" style="font-family: 'Nanum Gothic', sans-serif;">&nbsp;&nbsp;저희 기업은 1인 기업으로서<br></br>&nbsp;&nbsp;2021년도에 시작하여 성장하고 있는 기업입니다.</p>
+<table style="font-family: 'Nanum Gothic', sans-serif; background-color:white; width:100%; height:100%; margin-top: 70px;">
 	<tr align="center">
 		<td><img src="<c:url value='/images/egovframework/example/ceo.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
 		<td><img src="<c:url value='/images/egovframework/example/hp.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
 		<td><img src="<c:url value='/images/egovframework/example/add.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
 		<td><img src="<c:url value='/images/egovframework/example/email.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
 	</tr>
-	<tr align="center" style="color: black; font-size: 30px; font-weight:bold;">
-		<td>CEO</td>
-		<td>H.P</td>
-		<td>ADDRESS</td>
-		<td>E-MAIL</td>
+	<tr align="center">
+	    <td style="font-family: 'Nanum Gothic', sans-serif; color: black; font-size: 30px; font-weight:bold;">CEO</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; color: black; font-size: 30px; font-weight:bold;">H.P</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; color: black; font-size: 30px; font-weight:bold;">ADDRESS</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; color: black; font-size: 30px; font-weight:bold;">E-MAIL</td>
 	</tr>
 	<tr align="center" style="color: black;">
-		<td>김철수</td>
-		<td>010-1234-5678</td>
-		<td>경상남도 통영시 산양읍 산양중앙로 50, 1층 우측</td>
-		<td>abc@gmail.com</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">김철수</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">010-1234-5678</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">경상남도 통영시 산양읍<br/> 산양중앙로 50, 1층 우측</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">abc@gmail.com</td>
 	</tr>
 </table>
 </div>

@@ -41,7 +41,7 @@ a:active {
 	color : white;
 }
 
-td:hover {
+.irum td:hover {
 	font-size : 30px;
 	color : white;
 }
@@ -49,7 +49,7 @@ td:hover {
 
 </head>
 <body>
-<table style="width:100%">
+<table class="irum" style="width:100%">
 <colgroup>
 	<col style="width:20%">
 	<col style="width:20%">
