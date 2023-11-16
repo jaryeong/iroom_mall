@@ -377,7 +377,7 @@
     </div>
     </div>
     
-	<div style="display: flex; flex-direction: column; justify-content: center; margin-left: 150px; margin-bottom: 330px;">
+	<div style="display: flex; flex-direction: column; justify-content: center; margin-left: 150px; margin-bottom: 130px;">
     <div style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">기타</div>
     <Button class="view_more">추가적인 제품</Button>
     <div class="modal">
@@ -589,7 +589,256 @@
 	    <p>액상, 국내산 고활력 난노, 냉장</p>
 	   
       </div>
-     </div>
+    </div>
+     
+     <Button class="view_more">소화제</Button>
+    <div class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p class="title">Maxafeed CXP [25kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>증체, 소화개선</p>
+	    <p class="subtitle">특징</p>
+	    <p>옥수수/대두박 base 사료 특화</p>
+	    <p class="subtitle">스펙</p>
+	    <p>Xylanase 1,500u/g, Cellulase 25,000u/g, Protease 2,000HUT/g, Amylase 10,000u/g, Phytase 1,000FTU/g 외</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Lumis Biotech 인도</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.05%</p>
+	    <p class="subtitle">적용</p>
+	    <p>양돈, 양계, 양어</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>9,500</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	    <p class="title">Maxafeed Wheat [25kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>증체, 소화개선</p>
+	    <p class="subtitle">특징</p>
+	    <p>NSP 분해력 높음, 빠른 분변 개선 및 섭취량 증가</p>
+	    <p class="subtitle">스펙</p>
+	    <p>Xylanase 7,500u/g, Cellulase 70,000u/g,  Amylase 18,000u/g</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Lumis Biotech 인도</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.05%</p>
+	    <p class="subtitle">적용</p>
+	    <p>전 축종</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>8,500</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	    <p class="title">BioMaxClean [10kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>증체, 소화개선</p>
+	    <p class="subtitle">특징</p>
+	    <p>빠른 분변 개선, 바실러스, 효소 복합체</p>
+	    <p class="subtitle">스펙</p>
+	    <p>Xylanase 1,000u/g, Cellulase 2,000u/g, Protease 7,000u/g, Bacillus 2종 각 10^9 CFU/g 외, Phytase 1,000u/g, Mannanase 150u/g</p>
+	    <p class="subtitle">제조사</p>
+	    <p>바이오앤드림코리아 대한민국(OEM)</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.05%</p>
+	    <p class="subtitle">적용</p>
+	    <p>양돈, 양계</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>8,000</p>
+	    <p class="subtitle">비고</p>
+	    <p>Bestzyme 외 중국(원료)</p>
+	    
+	    <p class="title">프로자임 AK [20kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>증체, 소화개선</p>
+	    <p class="subtitle">특징</p>
+	    <p>세균성 프로테아제</p>
+	    <p class="subtitle">스펙</p>
+	    <p>Protease 130,000PC/g</p>
+	    <p class="subtitle">제조사</p>
+	    <p>비전바이오켐</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.020%</p>
+	    <p class="subtitle">적용</p>
+	    <p>전 축종</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>13,000</p>
+	    <p class="subtitle">비고</p>
+	    <p>Bestzyme 외 중국(원료)</p>
+	    
+	    <p class="title">GOzyme 플러스 [20kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>항상제 대체</p>
+	    <p class="subtitle">특징</p>
+	    <p>H2O2 + 유기산 생성에 의한 병원균 사멸</p>
+	    <p class="subtitle">스펙</p>
+	    <p>Glucose Oxidase 2,000 u/g, 구연산</p>
+	    <p class="subtitle">제조사</p>
+	    <p>바이오앤드림코리아 대한민국(OEM)</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.03%</p>
+	    <p class="subtitle">적용</p>
+	    <p>양계, 양돈</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>3,500</p>
+	    <p class="subtitle">비고</p>
+	    <p>Bestzyme 외 중국(원료)</p>
+	    	   
+      </div>
+    </div>
+     
+     <Button class="view_more">미생물제</Button>
+    <div class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p class="title">Active Feed Dry yeast [10kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>일반효모</p>
+	    <p class="subtitle">특징</p>
+	    <p>안정적인 효모 균수 및 경제성</p>
+	    <p class="subtitle">스펙</p>
+	    <p>S.cerevisiae 2.0 * 10^10 cfu/g</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Angel 중국</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.03%</p>
+	    <p class="subtitle">적용</p>
+	    <p>전 축종</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>7,000</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	    <p class="title">Yeast Cell Wall [20kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>면역력개선</p>
+	    <p class="subtitle">특징</p>
+	    <p>대장균, 살모넬라 및 곰팡이독소 흡착</p>
+	    <p class="subtitle">스펙</p>
+	    <p>B-glucan 20%, MOS 20%</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Angel 중국</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.05%</p>
+	    <p class="subtitle">적용</p>
+	    <p>양돈, 양계</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>5,500</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	    <p class="title">Engevita GSH [25kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>항산화효과</p>
+	    <p class="subtitle">특징</p>
+	    <p>항산화효과에 의한 생산성 개선</p>
+	    <p class="subtitle">스펙</p>
+	    <p>글루타치온 3%, 글루타치온 15%, 글루타치온 50%</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Lallemand 캐나다, 중국, 중국</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.01%, ?, ?</p>
+	    <p class="subtitle">적용</p>
+	    <p>낙농, 산란</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>25,000, 120,000, 230,000</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	    <p class="title">Selenium Yeast [25kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>항산화효과</p>
+	    <p class="subtitle">특징</p>
+	    <p>유기태 셀레늄</p>
+	    <p class="subtitle">스펙</p>
+	    <p>유기태 셀레늄 2,000ppm</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Angel 중국</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.005% ~ 0.02%</p>
+	    <p class="subtitle">적용</p>
+	    <p>전축종</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>13,000</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	    <p class="title">B.subtillis [20kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>장내균총 분변개선</p>
+	    <p class="subtitle">특징</p>
+	    <p>높은 균수 및 열안정성</p>
+	    <p class="subtitle">스펙</p>
+	    <p>Bacillus sp. 1*10^11 cfu/g</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Vland 중국</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.002%</p>
+	    <p class="subtitle">적용</p>
+	    <p>양계,양돈</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>30,000</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	    <p class="title">B.licheniformis[20kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>장내균총 분변개선</p>
+	    <p class="subtitle">특징</p>
+	    <p>높은 균수 및 열안정성</p>
+	    <p class="subtitle">스펙</p>
+	    <p>Bacillus sp. 1*10^11 cfu/g</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Vland 중국</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.002%</p>
+	    <p class="subtitle">적용</p>
+	    <p>양계,양돈</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>30,000</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	    <p class="title">C. butyricum [20kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>장내균총 면역개선 융모발달</p>
+	    <p class="subtitle">특징</p>
+	    <p>높은 균수 및 열안정성</p>
+	    <p class="subtitle">스펙</p>
+	    <p>Clostridum butyricum 1 x 10^10 cfu/g</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Vland 중국</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.005%</p>
+	    <p class="subtitle">적용</p>
+	    <p>양계,양돈</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>65,000</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	    <p class="title">L. plantarum 외 16 종 [1kg]</p>
+	    <p class="subtitle">효과</p>
+	    <p>장내균총 분변개선</p>
+	    <p class="subtitle">특징</p>
+	    <p>높은 균수 및 안정성</p>
+	    <p class="subtitle">스펙</p>
+	    <p>유산균 1 x 10^11 cfu/g</p>
+	    <p class="subtitle">제조사</p>
+	    <p>Lallemand 캐나다</p>
+	    <p class="subtitle">사용량</p>
+	    <p>0.0002%</p>
+	    <p class="subtitle">적용</p>
+	    <p>전축종</p>
+	    <p class="subtitle">가격/kg</p>
+	    <p>개별</p>
+	    <p class="subtitle">비고</p>
+	    <p></p>
+	    
+	   
+      </div>
+    </div>
     </div>
     
 </div>
