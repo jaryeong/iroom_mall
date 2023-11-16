@@ -1,13 +1,87 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
+<%@ page contentType="text/html; charset=utf-8" pageEncoding="utf-8"%>
+<%@ taglib prefix="c"      uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="form"   uri="http://www.springframework.org/tags/form" %>
+<%@ taglib prefix="ui"     uri="http://egovframework.gov/ctl/ui"%>
+<%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
+<%
+  /**
+  * @Class Name : mainCompany.jsp
+  * @Description : 기업소개 화면
+  * @Modification Information
+  *
+  *   수정일         수정자                   수정내용
+  *  -------    --------    ---------------------------
+  *  2009.02.01            최초 생성
+  *
+  * author 실행환경 개발팀
+  * since 2009.02.01
+  *
+  * Copyright (C) 2009 by MOPAS  All right reserved.
+  */
+%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko">
 <head>
-<meta charset="UTF-8">
-<title>메인화면</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title><spring:message code="title.sample" /></title>
+    <link type="text/css" rel="stylesheet" href="<c:url value='/css/egovframework/sample.css'/>"/>
 </head>
 <body>
+<br></br>
+<div style="overflow: auto;">
+<div class="title">
+<span class="crimson_text">&nbsp;ㅇ</span>ㅣㄹㅜㅁ
+</div>
+<br></br>
 <jsp:include page="header.jsp" />
-메인화면입니다.
+<img src="<c:url value='/images/egovframework/example/company_introduce.jpg'/>" width="100%" height="420" alt=""/>
+<br></br><br></br>
+<h1 style="font-weight:bold">&nbsp;ABOUT US</h1>
+<br></br>
+<p class="introduce">&nbsp;&nbsp;저희 기업은 1인 기업으로서<br></br>&nbsp;&nbsp;2021년도에 시작하여 성장하고 있는 기업입니다.</p>
+<br></br><br></br><br></br><br></br>
+<div class="row" align="center">
+          <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+            <span>
+            <img src="<c:url value='/images/egovframework/example/ceo.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/>
+            </span>
+            <h4>
+              <strong>CEO</strong>
+            </h4>
+            <hr></hr>
+            <p>김철수</p>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+            <span>
+            <img src="<c:url value='/images/egovframework/example/hp.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/>
+            </span>
+            <h4>
+              <strong>H.P</strong>
+            </h4>
+            <hr></hr>
+            <p>010-1234-5678</p>
+          </div>
+          <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+            <span>
+            <img src="<c:url value='/images/egovframework/example/add.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/>
+            </span>
+            <h4>
+              <strong>ADDRESS</strong>
+            </h4>
+            <hr></hr>
+            <p>경상남도 통영시 산양읍 산양중앙로 50, 1층 우측</p>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <span>
+            <img src="<c:url value='/images/egovframework/example/email.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/>
+            </span>
+            <h4>
+              <strong>E-MAIL</strong>
+            </h4>
+            <hr></hr>
+            <p>abc@gmail.com</p>
+          </div>
+        </div>
+</div>
 </body>
 </html>
