@@ -27,7 +27,6 @@
     <link rel="preconnect" href="https://fonts.googleaps.com"/>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
     <link href="https://fonts.googleaps.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet"/>
-    <link type="text/css" rel="stylesheet" href="<c:url value='/css/egovframework/sample.css'/>"/>
 </head>
 <body>
 <div style="overflow: auto;">
@@ -37,7 +36,6 @@
 <jsp:include page="header.jsp" />
 <img src="/images/egovframework/example/company_introduce.jpg" style="width: 100%; height: 420px; margin-bottom: 30px;"/>
 <h1 style="font-weight:bold; font-family: 'Nanum Gothic', sans-serif;">&nbsp;ABOUT US</h1>
-<br></br>
 <p class="introduce" style="font-family: 'Nanum Gothic', sans-serif;">&nbsp;&nbsp;저희 기업은 1인 기업으로서<br></br>&nbsp;&nbsp;2021년도에 시작하여 성장하고 있는 기업입니다.</p>
 <table style="font-family: 'Nanum Gothic', sans-serif; background-color:white; width:100%; height:100%; margin-top: 70px;">
 	<tr align="center">
