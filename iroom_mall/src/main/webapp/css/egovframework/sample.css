@@ -7,7 +7,7 @@
 /********************************************************************************/
 * {margin:0;padding:0;}
 * html {height:1px;}
-body {margin:0; padding:0; font-family:"굴림"; font-size:12px; color:#666; scroll:auto;}
+body {margin:0 auto; padding:0; font-family:"굴림"; font-size:12px; color:#666; scroll:auto;}
 table, tr, td, th {font-family:"돋움"; font-size:11px; color:#333333;}
 .listtd {padding:10px 5px 8px 5px; border-bottom:1px solid #e5e5e5;}
 th {background-color:#F3F5E0; background:url(../../images/egovframework/example/th_bg.gif) 0 0 repeat; height:26px; text-align:center; vertical-align:middle; color:#003366;}
@@ -44,6 +44,10 @@ a:hover { font-size:11px; font-family:"돋움"; color:#339999; text-decoration:n
 .menu .on a.top:active {font-family:"굴림"; font-weight:bold; color:#00CCFF; text-decoration:none; font-size:12px;}	
 		
 .right_area {float:right; height:38px; margin:0; padding:0 8px 0 0; background:url(../../images/egovframework/example/civilappeal_topmn_bg11.jpg) right no-repeat;}
+.about{font-size:15px; font-weight:bold; text-align: center;}
+.crimson_text{color:crimson;}
+.title{margin:0 auto; text-align: left; font-size:24px; font-weight:bold;}
+.introduce{font-size:15px;}
 #sub {float:left; padding:10px 10px 10px 10px; /*overflow:hidden;*/width:180px; margin-right:30px;}
 #sub .login {width:180px; height:70px; text-align:left; vertical-align:top; padding:5px 0 0 0; background:url(../../images/egovframework/example/civilappeal_login_bg.jpg) right no-repeat; margin-bottom:10px;}
 #sub .login_en {width:180px; height:70px; text-align:left; vertical-align:top; padding:5px 0 0 0; background:url(../../images/egovframework/example/civilappeal_login_bg_en.jpg) right no-repeat; margin-bottom:10px;}
