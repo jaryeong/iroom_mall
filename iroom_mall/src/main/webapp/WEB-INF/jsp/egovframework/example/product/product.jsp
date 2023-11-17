@@ -381,7 +381,7 @@
     </div>
         
 	<div style="display: flex; flex-direction: column; justify-content: center; margin-left: 150px; margin-bottom: 130px;">
-    <div style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">기타</div>
+    <div class="mas" style="display: inline-block; margin-top: 50px; font-weight: bold; font-size: 20px;">기타</div>
     <Button class="view_more">추가적인 제품</Button>
     <div class="modal">
       <div class="modal-content">
