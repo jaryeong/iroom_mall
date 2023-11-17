@@ -41,7 +41,7 @@ a:active {
 	color : white;
 }
 
-.irum td:hover {
+a:menu:hover {
 	font-size : 30px;
 	color : white;
 }
@@ -49,9 +49,8 @@ a:active {
 
 </head>
 <body>
-<table class="irum" style="width:100%">
+<table style="width:100%">
 <colgroup>
-	<col style="width:20%">
 	<col style="width:20%">
 	<col style="width:20%">
 	<col style="width:20%">
@@ -59,7 +58,6 @@ a:active {
 	<tr>
 		<td style="color:white; font-size:25px"><a class="menu">이룸 양식몰</a></td>
 		<td><a class="menu" href="/main/main.do">홈</a></td>
-		<td><a class="menu" href="/main/mainCompany.do">기업소개</a></td>
 		<td><a class="menu" href="/product/product.do">제품</a></td>
 		<td onclick="fnShowLocationPopup()"><a class="menu" href="">찾아오는 길</a></td>
 </table>
