@@ -23,7 +23,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ko" xml:lang="ko">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title><spring:message code="title.sample" /></title>
+    <title>이룸양식몰 홈</title>
     <link rel="preconnect" href="https://fonts.googleaps.com"/>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
     <link href="https://fonts.googleaps.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet"/>
