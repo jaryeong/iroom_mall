@@ -31,7 +31,7 @@
 <body>
 <div style="overflow: auto;">
 <div class="title">
-<img src="/resources/img/이룸로고.png" style="width: 10%; margin-top: 20px; margin-bottom: 10px;"/>
+<img src="/images/egovframework/example/이룸로고.png" style="width: 10%; margin-top: 20px; margin-bottom: 10px;"/>
 </div>
 <jsp:include page="header.jsp" />
 <img src="/images/egovframework/example/company_introduce.jpg" style="width: 100%; height: 420px; margin-bottom: 30px;"/>
@@ -46,24 +46,35 @@
 		<td><img src="<c:url value='/images/egovframework/example/hp.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
 		<td><img src="<c:url value='/images/egovframework/example/add.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
 		<td><img src="<c:url value='/images/egovframework/example/email.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
+		<td><img src="<c:url value='/images/egovframework/example/cafe.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
 	</tr>
 	<tr align="center">
 	    <td style="font-family: 'Nanum Gothic', sans-serif; color: black; font-size: 30px; font-weight:bold;">CEO</td>
 		<td style="font-family: 'Nanum Gothic', sans-serif; color: black; font-size: 30px; font-weight:bold;">H.P</td>
 		<td style="font-family: 'Nanum Gothic', sans-serif; color: black; font-size: 30px; font-weight:bold;">ADDRESS</td>
 		<td style="font-family: 'Nanum Gothic', sans-serif; color: black; font-size: 30px; font-weight:bold;">E-MAIL</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; color: black; font-size: 30px; font-weight:bold;">CAFE</td>
 	</tr>
 	<tr align="center" style="color: black;">
-		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">김철수</td>
-		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">010-1234-5678</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">김병문</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">010-3691-2452</td>
 		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">경상남도 통영시 산양읍<br/> 산양중앙로 50, 1층 우측</td>
-		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">abc@gmail.com</td>
+		<td style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;">dawntop@hanmail.net</td>
+		<td class="cafe_link" style="font-family: 'Nanum Gothic', sans-serif; font-size: 15px;" onclick="deleteUser()">http://Cafe.naver.com/iroom2021</td>
 	</tr>
 </table>
 </div>
+<script>
+function deleteUser() {
+	location.href="http://Cafe.naver.com/iroom2021"
+}
+</script>
 <style>
 .mas {
 	font-family: 'Nanum Gothic', sans-serif;
+}
+.cafe_link {
+	color: blue; text-decoration-line: underline; cursor: pointer;
 }
 </style>
 </body>

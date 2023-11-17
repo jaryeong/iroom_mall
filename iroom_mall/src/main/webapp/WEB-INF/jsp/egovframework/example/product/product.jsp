@@ -13,17 +13,17 @@
  <jsp:include page="../main/header.jsp" /> 
 <div class="product_entire">
 <div style="display: flex; justify-content: center;">
-	<img src="/resources/img/난노클로롭시스.jpg" class="imges"/>
-	<img src="/resources/img/키토세로스.png" class="imges"/>
-	<img src="/resources/img/클로렐라(생클로렐라V12).png" class="imges"/>
-	<img src="/resources/img/클로렐라(슈퍼생클로렐라V12).png" class="imges"/>
-	<img src="/resources/img/퍼마가드-VK.jpg" class="imges"/>
-	<img src="/resources/img/부르민.png" class="imges"/>
-	<img src="/resources/img/부르민-BP2.jpg" class="imges"/>
+	<img src="/images/egovframework/example/난노클로롭시스.jpg" class="imges"/>
+	<img src="/images/egovframework/example/키토세로스.png" class="imges"/>
+	<img src="/images/egovframework/example/클로렐라(생클로렐라V12).png" class="imges"/>
+	<img src="/images/egovframework/example/클로렐라(슈퍼생클로렐라V12).png" class="imges"/>
+	<img src="/images/egovframework/example/퍼마가드-VK.jpg" class="imges"/>
+	<img src="/images/egovframework/example/부르민.png" class="imges"/>
+	<img src="/images/egovframework/example/부르민-BP2.jpg" class="imges"/>
 </div>
 
 <div style="text-align: center;">
-	<img src="/resources/img/이룸로고.png" style="width: 10%; margin-top: 60px;"/>
+	<img src="/images/egovframework/example/이룸로고.png" style="width: 10%; margin-top: 60px;"/>
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center; margin-top: -180px;">
