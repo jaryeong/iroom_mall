@@ -39,7 +39,7 @@
 <p class="mas">&nbsp;&nbsp;고맙습니다사랑합니다행복합니다</p><br></br>
 <p class="introduce" style="font-family: 'Nanum Gothic', sans-serif;">&nbsp;&nbsp;저희 기업은 1인 기업으로서<br></br>&nbsp;&nbsp;2021년도에 시작하여 성장하고 있는 기업입니다.</p><br></br>
 <p class="mas">&nbsp;&nbsp;국내산 생 난노100. . .박스(9리터*2)에 14만원 (택배비 별도). .해수산클로렐라는 100프로 난노입니다.</p>
-<p class="mas">&nbsp;&nbsp;이룸양식몰, 생균제, 수질개선제, 물만들기, 퍼마가드, 부르민, nannochlor..., 해수산클로렐라, 사료첨가제, 난노를 주로 판매합니다.</p>
+<p class="mas">&nbsp;&nbsp;생균제, 수질개선제, 물만들기, 퍼마가드, 부르민, nannochlor..., 해수산클로렐라, 사료첨가제, 난노를 주로 판매합니다.</p>
 <table style="font-family: 'Nanum Gothic', sans-serif; background-color:white; width:100%; height:100%; margin-top: 70px;">
 	<tr align="center">
 		<td><img src="<c:url value='/images/egovframework/example/ceo.jpg'/>" style="width: 7rem; height: 7rem; display: block;"/></td>
